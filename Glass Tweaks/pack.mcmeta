@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": "Glass now drops when mined and breaks faster when using a pickaxe."
+  }
+}
